@@ -1,0 +1,1 @@
+render(); //kjører render funksjonen som befinner seg i pageChecker.js
